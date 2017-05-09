@@ -1,0 +1,10 @@
+language: python
+python: 3.4
+
+install:
+  - pip install -r requirements.txt
+
+script:
+  - ./test/validate.py schema/authors.yml data/authors.yml
+  - ./test/validate.py schema/brands.yml data/brands.yml
+  - ./test/validate.py schema/games.yml data/games.yml

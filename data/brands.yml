@@ -1,0 +1,26 @@
+- id: b4748b06-a5e8-4b32-8070-9e5a7e3db0a7
+  name:
+    text: Lilies Project
+    kana: りりーずぷろじぇくと
+  links:
+    - url: http://yuri.saiin.net/top.html
+      title: Lilies Project
+      state: active
+      last_visit: "2017-05-08"
+
+- id: 46a680d6-fa0f-4ced-9cd2-6d8b5f1fed9e
+  name:
+    text: mini
+    kana: みに
+  links: []
+
+- id: 5ca1d3aa-8c54-4ae3-b39c-e0e4c2442310
+  name:
+    text: 黒彩黄泉路
+    kana: くろいろどるよみじ
+  links:
+    - url: http://virgo-resistance.sakura.ne.jp/k-yomiji/
+      title: 黒彩黄泉路
+      state: active
+      last_visit: "2017-05-08"
+

@@ -1,0 +1,150 @@
+- id: 1fe65c05-8824-4cce-ac0f-54444b2b3bc3
+  name:
+    - text: "400"
+      kana: よんひゃく
+      type: full
+    - text: 阿部四百
+      kana: あべよんひゃく
+      type: full
+    - text: 阿部
+      kana: あべ
+      type: last
+    - text: 四百
+      kana: よんひゃく
+      type: first
+  links:
+    - url: http://www7b.biglobe.ne.jp/~yasai/
+      title: 野菜ジュースと私
+      state: active
+      last_visit: "2017-05-08"
+
+- id: 657157cb-1a16-463f-b20d-d058fd536150
+  name:
+    - text: ひなた
+      kana: ひなた
+      type: full
+  links:
+    - url: http://pan.chew.jp/
+      title: ■月のあくび■
+      state: active
+      last_visit: "2017-05-08"
+
+- id: 05a7856a-c61c-4571-a359-d7c84f05de0f
+  name:
+    - text: wata
+      kana: わた
+      type: full
+    - text: 高橋ワタル
+      kana: たかはしわたる
+      type: full
+    - text: 高橋
+      kana: たかはし
+      type: last
+    - text: ワタル
+      kana: わたる
+      type: first
+  links:
+    - url: http://www.sohmatoa.com/
+      title: "- Sohmatoa -"
+      state: active
+      last_visit: "2017-05-08"
+
+- id: 7d20906b-f560-4371-a9ee-61802875b200
+  name:
+    - text: bridge
+      kana: ぶりっじ
+      type: full
+  links: []
+
+- id: 481ae6c8-f6ef-488c-8874-49119ee4679c
+  name:
+    - text: 日柳こより
+      kana: くさなぎこより
+      type: full
+    - text: 日柳
+      kana: くさなぎ
+      type: last
+    - text: こより
+      kana: こより
+      type: first
+  links:
+    - url: http://koyori.org/
+      title: koyori.org
+      state: active
+      last_visit: "2017-05-08"
+    - url: https://www.pixiv.net/member.php?id=3761
+      title: 「こより」のプロフィール [pixiv]
+      state: active
+      last_visit: "2017-05-08"
+    - url: https://twitter.com/koyori
+      title: こより(@koyori)さん | Twitter
+      state: active
+      last_visit: "2017-05-08"
+
+- id: 24d025be-4ae1-4169-8f90-df70b46f11fb
+  name:
+    - text: KIRIKO/HIKO Sound
+      kana: きりこひこさうんど
+      type: full
+  links:
+    - url: http://kirikohiko.halfmoon.jp/
+      title: KIRIKO/HIKO Sound
+      state: active
+      last_visit: "2017-05-08"
+    - url: https://ja.wikipedia.org/wiki/KIRIKO/HIKO_sound
+      title: KIRIKO/HIKO sound - Wikipedia
+      state: active
+      last_visit: "2017-05-08"
+
+- id: 23f7c778-6f60-4f53-a0a4-388f82071d1a
+  name:
+    - text: ふぇんりるふぃーあ
+      kana: ふぇんりるふぃーあ
+      type: full
+  links:
+    - url: https://twitter.com/fenrirvier
+      title: ふぇんりるふぃーあ(@fenrirvier)さん | Twitter
+      state: active
+      last_visit: "2017-05-08"
+    - url: https://www.pixiv.net/member.php?id=368691
+      title: 「黒彩黄泉路・ふぇんりるふぃーあ」のプロフィール [pixiv]
+      state: active
+      last_visit: "2017-05-08"
+
+- id: 7382c216-b4e4-435b-8b2b-5156604cf6a4
+  name:
+    - text: あげきち
+      kana: あげきち
+      type: full
+  links:
+    - url: http://heartshape.wixsite.com/heartshape7
+      title: heartshape7
+      state: active
+      last_visit: "2017-05-08"
+    - url: https://twitter.com/agekichi
+      title: あげきち(@agekichi)さん | Twitter
+      state: active
+      last_visit: "2017-05-08"
+    - url: https://www.pixiv.net/member.php?id=1093412
+      title: 「あげきち」のプロフィール [pixiv]
+      state: active
+      last_visit: "2017-05-08"
+
+- id: e4990d7a-71e2-416f-b10e-e0a412f47f8c
+  name:
+    - text: はたち
+      kana: はたち
+      type: full
+  links:
+    - url: http://20plus1.jp/index.html
+      title: 同人サークル『20＋1』
+      state: active
+      last_visit: "2017-05-08"
+    - url: https://twitter.com/circle20plus1
+      title: 同人サークル『20+1』(@circle20plus1)さん | Twitter
+      state: active
+      last_visit: "2017-05-08"
+    - url: https://www.pixiv.net/member.php?id=807701
+      title: 「はたち」のプロフィール [pixiv]
+      state: active
+      last_visit: "2017-05-08"

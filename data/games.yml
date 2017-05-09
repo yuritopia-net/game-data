@@ -1,0 +1,146 @@
+- id: 15178125-e018-4ee1-a8b1-c718c899b237
+  title:
+    name: 彼女と彼女と私の七日
+    kana: かのじょとかのじょとわたしのなのか
+  brand:
+    id: b4748b06-a5e8-4b32-8070-9e5a7e3db0a7
+    name: Lilies Project
+  creator:
+    - id: 1fe65c05-8824-4cce-ac0f-54444b2b3bc3
+      name: "400"
+      type: producer
+    - id: 657157cb-1a16-463f-b20d-d058fd536150
+      name: ひなた
+      type: unknown
+    - id: 05a7856a-c61c-4571-a359-d7c84f05de0f
+      name: wata
+      type: music
+  link:
+    url: http://yuri.saiin.net/top.html
+    title: 公式サイト
+    state: active
+    last_visit: "2017-05-08"
+  xrated: true
+  last_update: "2017-05-08"
+
+- id: 360545fa-e418-45cb-bd62-44a49c4c06da
+  title:
+    name: 処女宮〜栗毛の潮吹少女たち〜
+    kana: しょじょきゅう〜くりげのしおふきしょうじょたち〜
+  brand:
+    id: 46a680d6-fa0f-4ced-9cd2-6d8b5f1fed9e
+    name: mini
+  creator:
+    - id: 7d20906b-f560-4371-a9ee-61802875b200
+      name: bridge
+      type: writer
+    - id: 481ae6c8-f6ef-488c-8874-49119ee4679c
+      name: 日柳こより
+      type: illustrator
+    - id: 24d025be-4ae1-4169-8f90-df70b46f11fb
+      name: KIRIKO/HIKO sound
+      type: music
+  xrated: true
+  last_update: "2017-05-08"
+
+- id: bf93839c-ea9e-4cec-9886-7714e9089905
+  title:
+    name: 続・日本神話-ねのかみ-
+    kana: ぞく・にほんしんわ-ねのかみ-
+  brand:
+    id: 5ca1d3aa-8c54-4ae3-b39c-e0e4c2442310
+    name: 黒彩黄泉路
+  creator:
+    - id: 23f7c778-6f60-4f53-a0a4-388f82071d1a
+      name: ふぇんりるふぃーあ
+      type: producer
+  link:
+    url: http://k-yomiji.sakura.ne.jp/nenokami/nenomain.html
+    title: 続・日本神話－ねのかみ－
+    state: active
+    last_visit: "2017-05-08"
+  last_update: "2017-05-08"
+
+- id: a0868c73-8114-44fe-89ce-5bb24064dd7b
+  title:
+    name: 続・日本神話-ねのかみ-幽世篇
+    kana: ぞく・にほんしんわ-ねのかみ-かくりよへん
+  brand:
+    id: 5ca1d3aa-8c54-4ae3-b39c-e0e4c2442310
+    name: 黒彩黄泉路
+  creator:
+    - id: 23f7c778-6f60-4f53-a0a4-388f82071d1a
+      name: ふぇんりるふぃーあ
+      type: producer
+  link:
+    url: http://k-yomiji.sakura.ne.jp/nenokami/neno2.html
+    title: 続・日本神話－ねのかみ－　幽世篇
+    state: active
+    last_visit: "2017-05-08"
+  last_update: "2017-05-08"
+
+- id: 760509cd-c4ca-4c2e-a2c6-dc1a2740efb1
+  title:
+    name: サクラメントの十二宮 乱れる仔ひつじと手懐く狼
+    kana: さくらめんとのじゅうにきゅう みだれるこひつじとてなづくおおかみ
+  brand:
+    id: 5ca1d3aa-8c54-4ae3-b39c-e0e4c2442310
+    name: 黒彩黄泉路
+  creator:
+    - id: 23f7c778-6f60-4f53-a0a4-388f82071d1a
+      name: ふぇんりるふぃーあ
+      type: producer
+    - id: 7382c216-b4e4-435b-8b2b-5156604cf6a4
+      name: あげきち
+      type: illustrator
+  link:
+    url: http://k-yomiji.sakura.ne.jp/sheep/sheep.html
+    title: サクラメントの十二宮　乱れる仔ひつじと手懐く狼
+    state: active
+    last_visit: "2017-05-08"
+  xrated: true
+  last_update: "2017-05-08"
+
+- id: ba4065a6-baf3-44e0-9f44-dbe69469652d
+  title:
+    name: ねのかみ 京の都とふたりの姫騎士
+    kana: ねのかみ きょうのみやことふたりのひめきし
+  brand:
+    id: 5ca1d3aa-8c54-4ae3-b39c-e0e4c2442310
+    name: 黒彩黄泉路
+  creator:
+    - id: 23f7c778-6f60-4f53-a0a4-388f82071d1a
+      name: ふぇんりるふぃーあ
+      type: producer
+    - id: e4990d7a-71e2-416f-b10e-e0a412f47f8c
+      name: はたち
+      type: illustrator
+  link:
+    url: http://k-yomiji.sakura.ne.jp/kyouhime/
+    title: 公式サイト
+    state: active
+    last_visit: "2017-05-08"
+  xrated: true
+  last_update: "2017-05-08"
+
+- id: 051f617a-bcb6-4c0a-8b18-16e64372dca1
+  title:
+    name: ねのかみ 京の都とふたりの姫騎士 後編
+    kana: ねのかみ きょうのみやことふたりのひめきし　こうへん
+  brand:
+    id: 5ca1d3aa-8c54-4ae3-b39c-e0e4c2442310
+    name: 黒彩黄泉路
+  creator:
+    - id: 23f7c778-6f60-4f53-a0a4-388f82071d1a
+      name: ふぇんりるふぃーあ
+      type: producer
+    - id: e4990d7a-71e2-416f-b10e-e0a412f47f8c
+      name: はたち
+      type: illustrator
+  link:
+    url: http://k-yomiji.sakura.ne.jp/kyouhime2/
+    title: ねのかみ　京の都とふたりの姫騎士 後編
+    state: active
+    last_visit: "2017-05-08"
+  xrated: true
+  last_update: "2017-05-08"
