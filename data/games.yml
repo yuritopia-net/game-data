@@ -144,3 +144,78 @@
     last_visit: "2017-05-08"
   xrated: true
   last_update: "2017-05-08"
+
+- id: 479266bf-06c4-4e18-b088-669e95c4111a
+  title:
+    name: セラとリルと山のおやしき
+    kana: せらとりるとやまのおやしき
+  brand:
+    id: b0fb4456-c589-4df6-b093-f9ff245baf81
+    name: blackcafecake
+  creator:
+    - id: ce7f603c-ba31-4f8e-aec7-91290563d80f
+      name: 黒菓子
+      type: producer
+  link:
+    url: http://game.nicovideo.jp/atsumaru/games/gm2788
+    title: セラとリルと山のおやしき
+    state: active
+    last_visit: "2017-05-09"
+  last_update: "2017-05-09"
+
+- id: 367f7378-ba13-4bfb-8d6b-bd0ef65b640e
+  title:
+    name: 雪のガラドリエル
+    kana: ゆきのがらどりえる
+  brand:
+    id: 59a3976d-2bf5-4fc5-acf6-dbf6180ff88e
+    name: Space not far
+  creator:
+    - id: 805115d8-5247-49a9-8235-6ec84b53ee50
+      name: 巫女瓜
+      type: producer
+    - id: 1db8ac75-af4f-4faa-b4a6-ec440d410084
+      name: うた（VIT999）
+      type: illustrator
+  link:
+    url: http://muspell.raindrop.jp/game/snow/
+    title: 雪のガラドリエル
+    state: active
+    last_visit: "2017-05-09"
+  last_update: "2017-05-09"
+
+- id: e9b86be1-e0cb-4c93-9c64-944d28fc5c2c
+  title:
+    name: サモンナイト クラフトソード物語
+    kana: さもんないと くらふとそーどものがたり
+  brand:
+    id: e07a43d5-161d-4765-b738-9253e839cbaf
+    name: バンプレスト
+  creator:
+    - id: 1b0405a5-9a80-4e3b-bf18-306dd9f98812
+      name: 大塚真一郎
+      type: illustrator
+  link:
+    url: http://www.summonnight.net/snworld/sngba/index.html
+    title: サモンナイト クラフトソード物語│サモンナイト オフィシャル ウェブサイト
+    state: active
+    last_visit: "2017-05-09"
+  last_update: "2017-05-09"
+
+- id: 91a8962f-8e6e-441d-8592-51df4b9f3799
+  title:
+    name: リリィナイト・サーガ～少女騎士と魔触の紋章～
+    kana: りりぃないと・さーが～しょうじょきしとましょくのもんしょう～
+  brand:
+    id: f451c8fe-cbfb-4922-84ce-e3fcbe09e35d
+    name: 月の水企画
+  creator:
+    - id: a0865542-dc44-4179-bd23-65563156b74b
+      name: Ｔ．Ｏ．Ｄ
+      type: producer
+  link:
+    url: http://www.dlsite.com/home/dlaf/=/aid/lilybrary/url/http%3A%2F%2Fwww.dlsite.com%2Fmaniax%2Fcircle%2Freport%2F%3D%2Freport%2F201407182%2F%3Fmedium%3Dbnlink%26source%3Duser%26program%3Dtext%26utm_medium%3Dbanner%26utm_campaign%3Dbnlink%26utm_content%3Dtext
+    title: リリィナイト・サーガ～少女騎士と魔触の紋章～
+    state: active
+    last_visit: "2017-05-09"
+  last_update: "2017-05-09"

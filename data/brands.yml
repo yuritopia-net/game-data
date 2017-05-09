@@ -24,3 +24,42 @@
       state: active
       last_visit: "2017-05-08"
 
+- id: b0fb4456-c589-4df6-b093-f9ff245baf81
+  name:
+    text: blackcafecake
+    kana: ぶらっくかふぇけーき
+  links: []
+
+- id: 59a3976d-2bf5-4fc5-acf6-dbf6180ff88e
+  name:
+    text: Space not far
+    kana: すぺーすのっとふぁー
+  links:
+    - url: http://muspell.raindrop.jp/
+      title: ●Space not far
+      state: active
+      last_visit: "2017-05-09"
+
+- id: e07a43d5-161d-4765-b738-9253e839cbaf
+  name:
+    text: バンプレスト
+    kana: ばんぷれすと
+  links:
+    - url: http://www.banpresto.co.jp/
+      title: 株式会社バンプレスト
+      state: active
+      last_visit: "2017-05-09"
+    - url: http://www.summonnight.net/index.html
+      title: サモンナイト オフィシャル ウェブサイト
+      state: active
+      last_visit: "2017-05-09"
+
+- id: f451c8fe-cbfb-4922-84ce-e3fcbe09e35d
+  name:
+    text: 月の水企画
+    kana: つきのみずきかく
+  links:
+    - url: http://tsukinomizu.com/
+      title: 月の水企画
+      state: active
+      last_visit: "2017-05-09"

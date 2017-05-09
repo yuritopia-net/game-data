@@ -148,3 +148,80 @@
       title: 「はたち」のプロフィール [pixiv]
       state: active
       last_visit: "2017-05-08"
+
+- id: ce7f603c-ba31-4f8e-aec7-91290563d80f
+  name:
+    - text: 黒菓子
+      kana: くろがし
+      type: full
+  links:
+    - url: http://game.nicovideo.jp/atsumaru/users/772951
+      title: 黒菓子さんのユーザーページ - RPGアツマール
+      state: active
+      last_visit: "2017-05-09"
+    - url: https://twitter.com/blackcafecake
+      title: 黒菓子(@blackcafecake)さん | Twitter
+      state: active
+      last_visit: "2017-05-09"
+    - url: https://www.pixiv.net/member.php?id=206407
+      title: 「黒菓子」のプロフィール [pixiv]
+      state: active
+      last_visit: "2017-05-09"
+
+- id: 805115d8-5247-49a9-8235-6ec84b53ee50
+  name:
+    - text: 巫女瓜
+      kana: みこうり
+      type: full
+  links:
+    - url: https://twitter.com/mikomikouriuri
+      title: 巫女瓜 / Space not far(@mikomikouriuri)さん | Twitter
+      state: active
+      last_visit: "2017-05-09"
+    - url: https://www.pixiv.net/member.php?id=181394
+      title: 「巫女瓜」のプロフィール [pixiv]
+      state: active
+      last_visit: "2017-05-09"
+
+- id: 1db8ac75-af4f-4faa-b4a6-ec440d410084
+  name:
+    - text: うた（VIT999）
+      kana: うた
+      type: full
+  links:
+    - url: https://twitter.com/uta_vit999
+      title: VITが890もある(@uta_vit999)さん | Twitter
+      state: active
+      last_visit: "2017-05-09"
+
+- id: 1b0405a5-9a80-4e3b-bf18-306dd9f98812
+  name:
+    - text: 大塚真一郎
+      kana: おおつかしんいちろう
+      type: full
+    - text: 大塚
+      kana: おおつか
+      type: last
+    - text: 真一郎
+      kana: しんいちろう
+      type: first
+  links:
+    - url: https://twitter.com/otsuka_shin
+      title: 大塚真一郎(@otsuka_shin)さん | Twitter
+      state: active
+      last_visit: "2017-05-09"
+    - url: https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E7%9C%9F%E4%B8%80%E9%83%8E
+      title: 大塚真一郎 - Wikipedia
+      state: active
+      last_visit: "2017-05-09"
+
+- id: a0865542-dc44-4179-bd23-65563156b74b
+  name:
+    - text: Ｔ．Ｏ．Ｄ
+      kana: てぃーおーでぃー
+      type: full
+  links:
+    - url: https://twitter.com/tanabeoverdrive
+      title: Ｔ．Ｏ．Ｄ(@TanabeOVERDRIVE)さん | Twitter
+      state: active
+      last_visit: "2017-05-09"
